@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/euler-crypto/static/css/main.3a1b3b88.chunk.css",
+    "main.js": "/euler-crypto/static/js/main.0a1295b9.chunk.js",
+    "main.js.map": "/euler-crypto/static/js/main.0a1295b9.chunk.js.map",
+    "runtime-main.js": "/euler-crypto/static/js/runtime-main.1179373e.js",
+    "runtime-main.js.map": "/euler-crypto/static/js/runtime-main.1179373e.js.map",
+    "static/js/2.538340ba.chunk.js": "/euler-crypto/static/js/2.538340ba.chunk.js",
+    "static/js/2.538340ba.chunk.js.map": "/euler-crypto/static/js/2.538340ba.chunk.js.map",
+    "static/js/3.9671dbd1.chunk.js": "/euler-crypto/static/js/3.9671dbd1.chunk.js",
+    "static/js/3.9671dbd1.chunk.js.map": "/euler-crypto/static/js/3.9671dbd1.chunk.js.map",
+    "index.html": "/euler-crypto/index.html",
+    "static/css/main.3a1b3b88.chunk.css.map": "/euler-crypto/static/css/main.3a1b3b88.chunk.css.map",
+    "static/js/2.538340ba.chunk.js.LICENSE.txt": "/euler-crypto/static/js/2.538340ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1179373e.js",
+    "static/js/2.538340ba.chunk.js",
+    "static/css/main.3a1b3b88.chunk.css",
+    "static/js/main.0a1295b9.chunk.js"
+  ]
+}
